@@ -17,7 +17,10 @@ class Solution{
     return diameter;
 };
   
-  // TC - O(N)
-  // sc - O(1) + O(H)
+ /* 
+ 
+ TC - O(N)
+   sc - O(1) + O(H)
+  https://takeuforward.org/data-structure/calculate-the-diameter-of-a-binary-tree/
   
-// [Detailed Sol.](https://takeuforward.org/data-structure/calculate-the-diameter-of-a-binary-tree/)
+*/
