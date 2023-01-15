@@ -1,3 +1,7 @@
+/*
+https://takeuforward.org/data-structure/implement-queue-using-stack/
+*/
+
 void MyQueue :: push(int x)
 {
         // Your Code
